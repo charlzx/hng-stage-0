@@ -26,8 +26,8 @@ This project is a submission for the HNG Frontend Stage 0 task. It features a re
 
 1. **Clone or download this repository**
    ```bash
-   git clone <https://github.com/charlzx/hng-stage-0.git>
-   cd <repository-folder>
+   git clone https://github.com/charlzx/hng-stage-0.git
+   cd hng-stage-0/
    ```
 
 2. **Open in browser**
@@ -39,7 +39,7 @@ This project is a submission for the HNG Frontend Stage 0 task. It features a re
 1. **Clone the repository**
    ```bash
    git clone https://github.com/charlzx/hng-stage-0.git
-   cd <hng-stage-0>
+   cd hng-stage-0/
    ```
 
 2. **Start a local server**
