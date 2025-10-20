@@ -1,16 +1,19 @@
-# HNG Frontend Stage 0 Task - Profile Card
+# HNG Frontend Stage 0 & Stage 1 Tasks
 
 
 ## 📋 Project Overview
 
-This project is a submission for the HNG Frontend Stage 0 task. It features a responsive, accessible profile card showcasing personal information with real-time timestamp display and interactive social links. It is built using HTML, CSS, and JavaScript. 
+This repository contains submissions for both **HNG Frontend Stage 0** and **Stage 1** tasks.
 
-## ✨ Features
+### Stage 0: Profile Card
+**Target:** Create a personal profile card with real-time data display and accessibility features.
 
-- **Real-time Timestamp**: Displays current time in milliseconds, updating every 100ms
-- **Responsive Design**: Adapts seamlessly to different screen sizes (mobile, tablet, desktop)
-- **Accessible**: Built with semantic HTML5, ARIA labels, and keyboard navigation support
-- **Social Links**: Quick access to Twitter, GitHub, and LinkedIn profiles
+**Overview:** A responsive profile card showcasing personal information with live timestamp updates, social links, and keyboard navigation support.
+
+### Stage 1: Multi-Page Application
+**Target:** Build a complete multi-page website with form validation and semantic HTML structure.
+
+**Overview:** An expanded application featuring Home, Contact, and About pages with client-side form validation, accessibility compliance, and responsive design. 
 
 
 ## 🚀 Getting Started
@@ -48,22 +51,6 @@ This project is a submission for the HNG Frontend Stage 0 task. It features a re
    ```bash
    python -m http.server 8000
    ```
-
-## 🧪 Testing
-
-The project includes `data-testid` attributes for automated testing:
-
-- `test-profile-card` - Main profile card container
-- `test-user-avatar` - Profile avatar image
-- `test-user-name` - User's name
-- `test-user-bio` - User's biography
-- `test-user-time` - Real-time timestamp display
-- `test-user-social-links` - Social media links container
-- `test-user-social-twitter` - Twitter link
-- `test-user-social-github` - GitHub link
-- `test-user-social-linkedin` - LinkedIn link
-- `test-user-hobbies` - Hobbies list
-- `test-user-dislikes` - Dislikes list
 
 ## 📱 Responsive Breakpoints
 
